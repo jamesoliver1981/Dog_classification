@@ -12,7 +12,9 @@ This result was achieved with 12 epochs which took around 20 minutes to run on t
 
 The second element of the project was to better an accuracy of 60% by leveraging pre trained models, ie using Transfer Learning.  Here I took the basis as the VGG16 model which had been trained on the 1000 images on ImageNet, and adjusted the last elements of the model to only predict on the 130 dog breeds.  This generated an accuracy of over 82%, significantly over the 60% criteria.
 
-The final elements of the project required building the algorithm into an app which took in an image file, and then where a human had been detected, identified which dog breed this human resembled, but where a dog was detected, identified which its breed and printed the image and the results out.
+The final elements of the project required building the algorithm into an app which took in an image file, and then where a human had been detected, identified which dog breed this human resembled, but where a dog was detected, identified which its breed and printed the image and the results out.  
+
+The code for the project can be found [here](https://github.com/jamesoliver1981/Dog_classification/blob/master/dog_app%20updated_200608.ipynb)
 
 
 
