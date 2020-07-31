@@ -3,6 +3,7 @@ This essence of this project is to take an image and say which of 130 different 
 
 ![DanAykroyd](/DanAckroydDog.png)
 
+This project is part of the [DeepLearning Nanodegree at Udacity] (https://www.udacity.com/course/deep-learning-nanodegree--nd101)
 In this project, the baseline of predictions is less than 1%.  This would be the result of random guessing.
 The first part of the project is to build a convolutional neural network from scratch.  The architecture is not prescribed so much trial and error is needed.  The end result combines 6 layers of convolutional layers, maxpooling, drop out, batch normalisation, and application of the relu function.  This generates an accuracy of 17%, where the passmark was 10%, both of which are significantly over the baseline rate.
 
